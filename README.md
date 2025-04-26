@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alvaro! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/alvaro-lopez-abreu-ba629833a/">FIU Computer Science Student</a</h1>
+<h1>Hi, I'm Alvaro! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/alvaro-lopez-abreu-ba629833a/">Florida International University Computer Science Student</a</h1>
 
 <h2>Software Development Projects:</h2>
 
