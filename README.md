@@ -2,6 +2,6 @@
 
 <h4>Connect with me:</h4>
 
-[<img align="left" alt: Alvaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt= Alvaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/alvaro-lopez-abreu-ba629833a/
